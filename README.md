@@ -1,6 +1,6 @@
 # yt-bookmarker-fCC
 
-In order to get a tast of and learn how to create Chrome Extensions, I followed this freeCodeCamp video ([Build a ChromeExtension - Course for Beginners](https://www.youtube.com/watch?v=0n809nd4Zu4)).
+In order to get a taste of and learn how to create Chrome Extensions, I followed this freeCodeCamp video ([Build a ChromeExtension - Course for Beginners](https://www.youtube.com/watch?v=0n809nd4Zu4)).
 
 ## Getting Started
 
